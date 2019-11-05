@@ -1,0 +1,21 @@
+﻿II. TEST CASE - TOOLS QA(DATEPICKER)
+Create a test with Selenium WebDriver, which does the following:
+
+1. Navigate to http://demoqa.com/;
+2. Click on the "Home" page's "Datepicker" button;
+3. Click on the "Datepicker" page's "Format date" section;
+4. Select every option of the "Datepicker" page's "Format date" dropdown menu;
+5. Click on the "Datepicker" page's "Date" input field web element;
+6. Select "March 2018" as month option from the "Datepicker" page's pop-up window;
+7. Select "1" as date option from the "Datepicker" page's pop-up window;
+8. Verify that every "Format date" dropdown menu's option changes the value in the "Date" input field to its proper value. All possible 
+values:
+	• March 1, 2018
+	• 2018-03-01
+	• 1 Mar, 18
+	• 1 March, 18
+	• Thursday, 1 March, 2018
+	• Day 1 of March in the year 2018
+
+Expected result:
+Every "Format date" dropdown menu's option changes the value in the "Date" input field to its proper value.

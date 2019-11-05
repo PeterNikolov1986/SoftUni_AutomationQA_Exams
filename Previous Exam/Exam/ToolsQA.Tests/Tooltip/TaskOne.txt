@@ -1,0 +1,12 @@
+﻿I. TEST CASE - TOOLS QA(TOOLTIP)
+Create a test with Selenium WebDriver, which does the following:
+
+1. Navigate to http://demoqa.com/;
+2. Click on the "Home" page's "Tooltip" button;
+3. Hover the mouse over the "Tooltip" page's "Age" input field's web element;
+4. Verify that after the execution of step 3, a "Tooltip" web element is displayed on the screen;
+5. Verify that this "Tooltip" web element contains the following text message: "We ask for your age only for statistical purposes".
+
+Expected results:
+1. A "Tooltip" web element is displayed on the screen after hovering the "Age" input field's web element.
+2. The "Tooltip" web element's text message is: "We ask for your age only for statistical purposes".

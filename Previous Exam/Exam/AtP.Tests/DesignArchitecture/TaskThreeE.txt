@@ -1,0 +1,21 @@
+﻿III. TEST CASES - AUTOMATE THE PLANET
+Create a test with Selenium WebDriver, which does the following:
+
+III. E:
+1. Navigate to https://www.automatetheplanet.com/;
+2. Click on the "Home" page's "Blog" hyperlink;
+3. Scroll the "Blog" page to its right placed "Sidebar" page's "Design And Architecture" hyperlink;
+4. Click on the right placed "Sidebar" page's "Design And Architecture" hyperlink;
+5. Scroll the "Design And Architecture" page to its "How to Write Good Bug Reports And Gather Quality Metrics Data" hyperlink;
+6. Click on the "How to Write Good Bug Reports And Gather Quality Metrics Data" hyperlink;
+7. Scroll the "How to Write Good Bug Reports And Gather Quality Metrics Data" page to its "Quick Navigation" columns;
+8. Click on every "Quick Navigation" columns' hyperlink;
+9. Verify that every "Quick Navigation" columns' hyperlink scrolls to an article section with the same name.
+10. Verify that "Quick Navigation" columns' hierarchy is represented in the HTML with <h2> and <h3> tag.
+
+Expected results:
+1. Every "How to Write Good Bug Reports And Gather Quality Metrics Data" page's "Quick Navigation" columns' hyperlink scrolls to an article 
+section with the same name.
+2. Every "How to Write Good Bug Reports And Gather Quality Metrics Data" page's article section is displayed on the screen.
+3. Every "How to Write Good Bug Reports And Gather Quality Metrics Data" page's article section is represented in the HTML with <h2> and 
+<h3> tag.
