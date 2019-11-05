@@ -1,0 +1,17 @@
+EXAM: UI Automation with Selenium WebDriver (11.08.2018)  
+
+III. .NET CORE DOCUMENTATION 
+Create a test with Selenium WebDriver, which does the following:
+
+1. Navigate to https://docs.microsoft.com/en-us/dotnet/csharp/; 
+2. Click on the left navigation's ".NET Core Guide" hyperlink;
+3. Click on the nested navigations's "Docker" hyperlink;
+4. Click on the nested navigations's "Introduction to .NET and Docker" hyperlink;
+5. Click on every "Introduction to .NET and Docker" page's "In this Article" right navigation hyperlink;
+6. Verify that every "In this Article" right navigation hyperlink scrolls the web page to an article section with the same name.
+
+Bonus: 
+You can earn bonus points to your course result, if you prepare JUST ONE PARAMETRIZED TEST, which can affirm the point 6's statement for 
+every other article in this documentation. 
+
+PROVE THAT WITH TESTING AT LEAST 3 DIFFERENT ARTICLES!!!

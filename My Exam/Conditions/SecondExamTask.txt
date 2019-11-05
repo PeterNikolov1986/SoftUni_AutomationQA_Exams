@@ -1,0 +1,21 @@
+EXAM: UI Automation with Selenium WebDriver (11.08.2018)  
+
+II. TOOLS QA - ACCORDION
+Create a test with Selenium WebDriver, which does the following:
+
+II. A:
+1. Navigate to http://demoqa.com/;
+2. Click on the "Home" page's "Accordion" button;
+3. Click on the "Accordion" page's "Customize icons" button;
+4. Click twice on the "Customize Icons" section's "Toggle icons" button;
+5. Verify that after clicking twice on this "Toggle icons" button, every section has an arrow in front of its name.
+
+II. B:
+1. Navigate to http://demoqa.com/;
+2. Click on the "Home" page's "Accordion" button;
+3. Click on the "Accordion" page's "Customize icons" button;
+4. Click on every "Customize Icons" section's "Section" web element;
+5. Verify that after clicking any "Section" web element, only this section is opened and its text can be read from the user.
+
+Bonus: 
+You can earn bonus points to your course result, if you prepare JUST ONE PARAMETRIZED TEST for II.B task's point 5. 

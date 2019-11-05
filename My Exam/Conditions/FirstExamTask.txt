@@ -1,0 +1,12 @@
+EXAM: UI Automation with Selenium WebDriver (11.08.2018)  
+
+I. TOOLS QA - SLIDER
+Create a test with Selenium WebDriver, which does the following:
+
+1. Navigate to http://demoqa.com/;
+2. Click on the "Home" page's "Slider" button;
+3. Drag the "Slider" page's "Slider" web element to the right direction;
+4. Verify that an input over the "Slider" web element increases the "Digit" web element's value.
+
+Bonus: 
+You can earn bonus points to your course result, if you prepare JUST ONE TEST, which repeats last two steps for all 9 possible values.

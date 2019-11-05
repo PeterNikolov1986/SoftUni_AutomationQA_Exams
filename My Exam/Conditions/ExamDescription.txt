@@ -1,0 +1,12 @@
+EXAM: UI Automation with Selenium WebDriver (11.08.2018)  
+
+This is an exam, made for UI Automation with Selenium WebDriver. You need to add in a new class all tests, which you write for every task. 
+There is a main condition in every task, which needs to be reached, if you want to get max points from it. You will see all conditions as 
+a percent of task's max points, described below. They are: 
+
+1. Page Object Model – 40%
+• Base Page – 10% 
+2. AAA Pattern – 10%
+3. Screenshot for failed tests – 10% 
+4. Assertions – 10% 
+5. Test result – 20% 
