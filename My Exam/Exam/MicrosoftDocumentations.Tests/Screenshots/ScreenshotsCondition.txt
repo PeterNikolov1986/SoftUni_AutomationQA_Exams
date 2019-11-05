@@ -1,0 +1,4 @@
+﻿SCREENSHOTS FOR FAILED TESTS - MICROSOFTDOCUMENTATIONS.TESTS
+
+If any test, part of the "MicrosoftDocumentations.Tests" project, fails, the web driver has to take a screenshot to the browser. The only
+important condition is the names of the screenshots to be the same ones as the names of the failed tests.

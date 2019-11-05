@@ -1,0 +1,12 @@
+﻿II. TEST CASES - TOOLS QA (ACCORDION)
+Create a test with Selenium WebDriver, which does the following:
+
+II. A:
+1. Navigate to http://demoqa.com/;
+2. Click on the "Home" page's "Accordion" button;
+3. Click on the "Accordion" page's "Customize icons" button;
+4. Click twice on the "Customize Icons" section's "Toggle icons" button;
+5. Verify that after clicking twice on this "Toggle icons" button, every section has an arrow in front of its name.
+
+Expected result:
+All "Arrow" web elements in front of all sections are displayed on the screen.

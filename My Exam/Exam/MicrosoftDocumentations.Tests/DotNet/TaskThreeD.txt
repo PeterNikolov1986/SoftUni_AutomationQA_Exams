@@ -1,0 +1,14 @@
+﻿III. TEST CASES - .NET DOCUMENTATION 
+Create a test with Selenium WebDriver, which does the following:
+
+III D. 
+1. Navigate to https://docs.microsoft.com/en-us/dotnet/csharp/; 
+2. Click on the left navigation's ".NET Guide" hyperlink;
+3. Click on the nested navigations's "Events" hyperlink;
+4. Click on every "Events" page's "In this Article" right navigation hyperlink;
+5. Verify that every "In this Article" right navigation hyperlink scrolls the web page to an article section with the same name.
+
+Expected results:
+1. Every "Events" page's "In this Article" hyperlink scrolls to an article section with the same name.
+2. Every "Events" page's article section is displayed on the screen.
+3. Every "Events" page's article section is represented in the HTML with <h2> tag.

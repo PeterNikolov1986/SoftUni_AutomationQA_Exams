@@ -1,0 +1,15 @@
+﻿III. TEST CASES - .NET FRAMEWORK DOCUMENTATION 
+Create a test with Selenium WebDriver, which does the following:
+
+III F. 
+1. Navigate to https://docs.microsoft.com/en-us/dotnet/csharp/; 
+2. Click on the left navigation's ".NET Framework Guide" hyperlink;
+3. Click on the nested navigations's "Development Guide" hyperlink;
+4. Click on the nested navigations's "Accessibility" hyperlink;
+5. Click on every "Accessibility" page's "In this Article" right navigation hyperlink;
+6. Verify that every "In this Article" right navigation hyperlink scrolls the web page to an article section with the same name.
+
+Expected results:
+1. Every "Accessibility" page's "In this Article" hyperlink scrolls to an article section with the same name.
+2. Every "Accessibility" page's article section is displayed on the screen.
+3. Every "Accessibility" page's article section is represented in the HTML with <h2> tag.

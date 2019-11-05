@@ -1,0 +1,15 @@
+﻿III. TEST CASES - .NET CORE DOCUMENTATION 
+Create a test with Selenium WebDriver, which does the following:
+
+III A. 
+1. Navigate to https://docs.microsoft.com/en-us/dotnet/csharp/; 
+2. Click on the left navigation's ".NET Core Guide" hyperlink;
+3. Click on the nested navigations's "Docker" hyperlink;
+4. Click on the nested navigations's "Container Tools in Visual Studio" hyperlink;
+5. Click on every "Container Tools in Visual Studio" page's "In this Article" right navigation hyperlink;
+6. Verify that every "In this Article" right navigation hyperlink scrolls the web page to an article section with the same name.
+
+Expected results:
+1. Every "Container Tools in Visual Studio" page's "In this Article" hyperlink scrolls to an article section with the same name.
+2. Every "Container Tools in Visual Studio" page's article section is displayed on the screen.
+3. Every "Container Tools in Visual Studio" page's article section is represented in the HTML with <h2> tag.

@@ -1,0 +1,12 @@
+﻿II. TEST CASES - TOOLS QA (ACCORDION)
+Create a test with Selenium WebDriver, which does the following:
+
+II. B:
+1. Navigate to http://demoqa.com/;
+2. Click on the "Home" page's "Accordion" button;
+3. Click on the "Accordion" page's "Customize icons" button;
+4. Click on every "Customize Icons" section's "Section" web element;
+5. Verify that after clicking any "Section" web element, only this section is opened and its text can be read from the user.
+
+Expected result:
+Only opened section's text is visible for the user.

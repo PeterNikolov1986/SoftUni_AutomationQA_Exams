@@ -1,0 +1,10 @@
+﻿I. TEST CASE - TOOLS QA (SLIDER)
+Create a test with Selenium WebDriver, which does the following:
+
+1. Navigate to http://demoqa.com/;
+2. Click on the "Home" page's "Slider" button;
+3. Drag the "Slider" page's "Slider" web element to the right direction;
+4. Verify that an input over the "Slider" web element increases the "Digit" web element's value.
+
+Expected result:
+The "Digit" web element's value increases after an input over the "Slider" web element.

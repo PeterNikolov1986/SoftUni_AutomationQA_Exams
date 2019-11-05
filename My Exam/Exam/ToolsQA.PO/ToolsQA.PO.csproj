@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NUnit" Version="3.12.0" />
+    <PackageReference Include="Selenium.Support" Version="3.141.0" />
+    <PackageReference Include="Selenium.WebDriver" Version="3.141.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Exam.Base\Exam.Base.csproj" />
+    <ProjectReference Include="..\Exam.Core.Shared\Exam.Core.Shared.csproj" />
+    <ProjectReference Include="..\Exam.Core\Exam.Core.csproj" />
+  </ItemGroup>
+
+</Project>
